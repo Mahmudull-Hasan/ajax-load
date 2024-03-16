@@ -1,0 +1,63 @@
+.button-success,
+.button-error,
+.button-warning,
+.button-secondary {
+    color: white;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.button-success {
+    background: rgb(28, 184, 65);
+    /* this is a green */
+}
+
+.button-error {
+    background: rgb(202, 60, 60);
+    /* this is a maroon */
+}
+
+.button-warning {
+    background: rgb(223, 117, 20);
+    /* this is an orange */
+}
+
+.button-secondary {
+    background: rgb(66, 184, 221);
+    /* this is a light blue */
+}
+
+
+/*
+==========
+ */
+
+ .plugin-side-option {
+    background-color: #ffffff;
+    padding: 10px;
+    margin-right: 15px;
+    min-height: 600px;
+ }
+ .plugin-demo-content {
+    background-color: #ffffff;
+    padding: 10px 20px;
+    margin-right: 0 15px;
+    min-height: 600px;
+ }
+
+ .plugin-side-option button {
+    width: 70%;
+    padding: 10px;
+    font-size: 18px;
+    margin-bottom:10px;
+ }
+
+ .plugin-result {
+    padding: 10px 20px;
+    background-color: red;
+    display: none;
+ }
+
+ .plugin-result-title {
+    margin-bottom: 15px;
+ }
