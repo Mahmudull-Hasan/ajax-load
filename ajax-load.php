@@ -25,7 +25,7 @@ function ajax_plugin_func() {
             <div class="pure-g">
                 <div class="pure-u-2-5" style="background-color: #ddd;">
                     <div class="plugin-side-option">
-                        <button class="button-success pure-button">Add New Data</button>
+                        <button class="button-success pure-button">Add New date</button>
                     </div>
                 </div>
                 <div class="pure-u-7-12" style="background-color: #ccc;">
